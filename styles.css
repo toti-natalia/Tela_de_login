@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+body{
+   background-image: url('images/education-removebg-preview.png');
+}
+.box{
+    text-align: center;
+    justify-content: center;
+    width: 420px;
+    height: 520px;
+    margin: 100px 550px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(50, 13, 84);
+    padding: 50px 50px;
+    border-radius: 100px;
+    color:aliceblue;
+    
+}
+h1{
+    font-size: 22px;
+    padding-bottom: 20px;
+}
+
+h2{
+    font-size: 18px;
+    margin-bottom: 70px;
+    
+}
+button{
+    margin-top: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+button:hover{
+    background-color: rgb(199, 149, 246);
+    color:aliceblue;
+    cursor: pointer;
+}
+#entrar:hover{
+    cursor: pointer;
+}
+label{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+input{
+    border-radius: 10px;
+    padding: 5px;
+    border: none;
+    margin-bottom: 15px;
+    width: 200px;
+}
+#rede{
+    
+    width: 25px;
+    height: 30px;
+    margin:10px;
+}
+#registrar {
+    margin-top: 40px;
+    padding: 8px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(199, 149, 246);
+    color: white;
+    text-align: center;
+    text-decoration: none;
+
+}
